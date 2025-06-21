@@ -1,0 +1,16 @@
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\bin\Debug\net8.0-windows\Subprocesos.exe
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\bin\Debug\net8.0-windows\Subprocesos.deps.json
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\bin\Debug\net8.0-windows\Subprocesos.runtimeconfig.json
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\bin\Debug\net8.0-windows\Subprocesos.dll
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\bin\Debug\net8.0-windows\Subprocesos.pdb
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.Form1.resources
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.csproj.GenerateResource.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.dll
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\refint\Subprocesos.dll
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.pdb
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\Subprocesos.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\Documentos\Visual Studio 2022\subprocesos\SubprocesosWinForm\obj\Debug\net8.0-windows\ref\Subprocesos.dll
